@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="837" viewBox="0 0 1672 837" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#EAF3FF"/>
+      <stop offset="0.55" stop-color="#F1F7FF"/>
+      <stop offset="1" stop-color="#E6F0FF"/>
+    </linearGradient>
+    <linearGradient id="waveTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#DCE9FF"/>
+      <stop offset="1" stop-color="#E6F0FF"/>
+    </linearGradient>
+    <linearGradient id="waveBottom" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D5E5FF"/>
+      <stop offset="1" stop-color="#C7DBFF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1672" height="837" fill="url(#background)"/>
+  <path fill="url(#waveTop)" d="M0 0H414C361 84 285 143 164 191C104 215 44 239 0 265Z"/>
+  <path fill="#DDE9FF" d="M1306 837C1414 741 1509 590 1672 556V837Z"/>
+  <path fill="url(#waveBottom)" fill-opacity="0.7" d="M1234 837C1378 747 1534 716 1672 739V837Z"/>
+</svg>
